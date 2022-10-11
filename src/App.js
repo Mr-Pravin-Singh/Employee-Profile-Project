@@ -110,8 +110,8 @@ export default function App() {
       </div>
 
       <div className="section2">
-        <h1>Employee's profile</h1>
-        <h2>Assignment for Castler company(react role)</h2>
+        <h1>Employee's Profile</h1>
+        <h2>Access Employee's profile Using id and name</h2>
 
         <h5 className="red">{msg}</h5>
         <input
